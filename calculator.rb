@@ -1,2 +1,2 @@
 # Add your variables here
-first_number(integer, float)
+first_number = 4
