@@ -1,2 +1,3 @@
 # Add your variables here
-first_number = Integer 
+def first_number(Integer, Float)
+end
