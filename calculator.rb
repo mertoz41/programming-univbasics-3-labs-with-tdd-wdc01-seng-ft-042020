@@ -1,3 +1,3 @@
 # Add your variables here
-first_number = Integer
+first_number = integer 
 puts first_number
